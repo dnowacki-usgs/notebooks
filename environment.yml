@@ -6,4 +6,3 @@ dependencies:
   - pydap
   - matplotlib
   - pytz
-  - dateutil
