@@ -7,3 +7,6 @@ dependencies:
   - matplotlib
   - pytz
   - python-dateutil
+  - ipywidgets
+  - pandas
+  - utide

@@ -2,6 +2,10 @@
 
 Some example notebooks. 
 
+## tidal_predictions.ipynb
+
+How many months of data do you need to make a reasonable tidal prediction over the course of a year?
+
 ## noaa_coops_api.ipynb
 
 Read NOAA COOPS data via the web API
